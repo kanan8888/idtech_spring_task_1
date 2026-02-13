@@ -31,4 +31,5 @@ How to Run
 
 You can import the Postman collection to quickly test the API:
 
-[Download Postman Collection](https://raw.githubusercontent.com/kanan8888/idtech_spring_task_1/main/ms-student-idtech-spring-t1.postman_collection.json)
+1. Download the collection from [here](https://github.com/kanan8888/idtech_spring_task_1/blob/main/ms-student-idtech-spring-t1.postman_collection.json).
+2. Open Postman → Import → File and select the downloaded JSON file.
