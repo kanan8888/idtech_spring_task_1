@@ -1,0 +1,31 @@
+databaseChangeLog:
+  - changeSet:
+      id: 13022026-02
+      author: kanan8888
+      changes:
+
+        - insert:
+            tableName: students
+            columns:
+              - column:
+                  name: age
+                  value: 20
+              - column:
+                  name: name
+                  value: Kenan
+              - column:
+                  name: email
+                  value: kenan@gmail.com
+
+        - insert:
+            tableName: students
+            columns:
+              - column:
+                  name: age
+                  value: 22
+              - column:
+                  name: name
+                  value: Ali
+              - column:
+                  name: email
+                  value: ali@gmail.com
