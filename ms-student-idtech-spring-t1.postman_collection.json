@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "add student",
+			"name": "insert student",
 			"request": {
 				"method": "GET",
 				"header": []
